@@ -1,0 +1,10 @@
+# -*- coding: utf-8 -*-
+"""
+Spyder Editor
+
+This is a temporary script file.
+"""
+
+import pandas as pd
+df=pd.read_csv('C:\Users\HP\Downloads\sonar_dataset_4_8_2020.ipynb.txt')
+
